@@ -1,8 +1,7 @@
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/101008770/209705590-fb73c7cb-3ba3-49ab-94e0-96ed963b1994.jpg" />
-  <p align="right"> <img align="center" src="https://user-images.githubusercontent.com/101008770/209696593-b5bf362e-8f3f-40ae-894f-0a66f6390c23.gif" alt="carlosmedina06" height="100" width="100" />
+<p align="right"> <img align="center" src="https://user-images.githubusercontent.com/101008770/209696593-b5bf362e-8f3f-40ae-894f-0a66f6390c23.gif" alt="carlosmedina06" height="100" width="100" />
   </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/101008770/209705836-3c0a1616-2a38-46f8-8e45-f392e2d67bb4.jpg" />
   <h1 align="center">Hi 👋, I'm Carlos Medina </h1>
 </div>
 <h3 align="center">A dedicated and responsible full stack developer from Argentina</h3>
