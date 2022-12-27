@@ -1,7 +1,9 @@
 
-<div align="center"><h1 align="center">Hi 👋, I'm Carlos Medina</h1>
-<p align="right">![charizard](https://user-images.githubusercontent.com/101008770/209696593-b5bf362e-8f3f-40ae-894f-0a66f6390c23.gif)
-  </p></div>
+<div align="center">
+  <p align="right"> <img align="center" src="https://user-images.githubusercontent.com/101008770/209696593-b5bf362e-8f3f-40ae-894f-0a66f6390c23.gif" alt="carlosmedina06" height="100" width="100" />
+  </p>
+  <h1 align="center">Hi 👋, I'm Carlos Medina </h1>
+</div>
 <h3 align="center">A dedicated and responsible full stack developer from Argentina</h3>
 <br>
 
