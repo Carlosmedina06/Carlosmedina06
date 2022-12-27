@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Carlos Medina</h1>
+<div align="center"><h1 align="center">Hi 👋, I'm Carlos Medina</h1>
+<p align="right">![charizard](https://user-images.githubusercontent.com/101008770/209696593-b5bf362e-8f3f-40ae-894f-0a66f6390c23.gif)
+  </p></div>
 <h3 align="center">A dedicated and responsible full stack developer from Argentina</h3>
 <br>
 
