@@ -1,6 +1,6 @@
 
 <div align="center">
-  ![charizard](https://user-images.githubusercontent.com/101008770/209696593-b5bf362e-8f3f-40ae-894f-0a66f6390c23.gif)
+  <img src="https://user-images.githubusercontent.com/101008770/209705590-fb73c7cb-3ba3-49ab-94e0-96ed963b1994.jpg" />
   <p align="right"> <img align="center" src="https://user-images.githubusercontent.com/101008770/209696593-b5bf362e-8f3f-40ae-894f-0a66f6390c23.gif" alt="carlosmedina06" height="100" width="100" />
   </p>
   <h1 align="center">Hi 👋, I'm Carlos Medina </h1>
