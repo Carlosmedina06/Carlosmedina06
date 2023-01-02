@@ -2,7 +2,7 @@
   </p>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/101008770/209705836-3c0a1616-2a38-46f8-8e45-f392e2d67bb4.jpg" />
-  <h1 align="center">Hi 👋, I'm Carlos Medina </h1>
+  <h1 align="center">Hi,  I'm Carlos Medina </h1>
 </div>
 <h3 align="center">A dedicated and responsible full stack developer from Argentina</h3>
 <br>
