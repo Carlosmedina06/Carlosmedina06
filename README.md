@@ -50,8 +50,6 @@
 
 <p align="left"> <a href="https://twitter.com/carlosmedina06" target="blank"><img src="https://img.shields.io/twitter/follow/carlosmedina06?logo=twitter&style=for-the-badge" alt="carlosmedina06" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosmedina06&show_icons=true&locale=en&layout=compact" alt="carlosmedina06" />
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carlosmedina06&show_icons=true&locale=en" alt="carlosmedina06" />
-</p>
+
 
 
