@@ -6,6 +6,9 @@
 # Hi, I'm Carlos Medina! 👋
 
 I am a Full Stack developer with experience in web and mobile application development. I specialize in using modern technologies and implementing secure and scalable software architectures. With a team-oriented mindset and a focus on problem-solving, I am committed to delivering high-quality products to my clients.
+	</br>
+	</br>
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=carlosmedina06.carlosmedina06&"  />
 #
  </div>
  
@@ -68,3 +71,7 @@ I am a Full Stack developer with experience in web and mobile application develo
 
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=carlosmedina06" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=carlosmedina06" height="150" alt="languages graph"  />
+</div>
