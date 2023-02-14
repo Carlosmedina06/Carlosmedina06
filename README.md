@@ -8,7 +8,7 @@
 I am a Full Stack developer with experience in web and mobile application development. I specialize in using modern technologies and implementing secure and scalable software architectures. With a team-oriented mindset and a focus on problem-solving, I am committed to delivering high-quality products to my clients.
 	</br>
 	</br>
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=carlosmedina06.carlosmedina06&"  />
+	<p> <img src="https://komarev.com/ghpvc/?username=carlosmedina06&label=Profile%20views&color=0e75b6&style=flat" alt="carlosmedina06" /> </p>
 #
  </div>
  
