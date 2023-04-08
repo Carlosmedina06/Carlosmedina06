@@ -5,7 +5,7 @@
  
 # Hi, I'm Carlos Medina! 👋
 
-I am a Full Stack developer with experience in web and mobile application development. I specialize in using modern technologies and implementing secure and scalable software architectures. With a team-oriented mindset and a focus on problem-solving, I am committed to delivering high-quality products to my clients.
+As a Full Stack developer, my expertise lies in developing web and mobile applications using cutting-edge technologies and secure, scalable software architectures. With a collaborative mindset and a dedication to solving complex problems, my primary goal is to deliver exceptional products to clients through a team-oriented approach. traduce esto a espanol
 	</br>
 	</br>
 	<p> <img src="https://komarev.com/ghpvc/?username=carlosmedina06&label=Profile%20views&color=0e75b6&style=flat" alt="carlosmedina06" /> </p>
