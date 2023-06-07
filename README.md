@@ -18,7 +18,7 @@ As a Full Stack developer, my expertise lies in developing web and mobile applic
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 📫 Click to reach me:
 </br>
@@ -75,6 +75,7 @@ As a Full Stack developer, my expertise lies in developing web and mobile applic
 [![Mongoose](https://img.shields.io/badge/Mongoose-3982CE?style=for-the-badge&logo=Mongoose&logoColor=white)](https://mongoosejs.com/)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=%23FFFFFF)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=%23FFFFFF)
